@@ -1,4 +1,4 @@
-# IR Line-Tracing Car Controller
+# IR Line-Tracing Car Controller(2023.09.19)
 **IR 센서 기반 자율주행 카 제어 보드**
 
 > IR 센서 입력으로 L293D 모터 드라이버를 구동해 자율주행하는 RC카용 커스텀 PCB.
