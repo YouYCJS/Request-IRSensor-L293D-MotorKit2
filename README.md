@@ -5,7 +5,7 @@
 > Altium으로 스키매틱부터 PCB 레이아웃, 3D 검증까지 전 과정 설계 후 실제 발주했습니다.
 > (DORO 의뢰 프로젝트)
 
-<img src="https://github.com/user-attachments/assets/0a7be633-5448-4390-aadc-039c09b71a25" alt="3D 앞면" width="100%">
+<img src="https://github.com/user-attachments/assets/0a7be633-5448-4390-aadc-039c09b71a25" alt="3D 앞면" width="45%">
 
 ## 개요
 IR 센서로 감지한 신호에 따라 두 개의 모터(BLUE / WHITE)를 제어하는
